@@ -515,7 +515,7 @@
         }
       },
       "Sony": {
-            "J9210": {
+        "J9210": {
             "brand": "sony",
             "manufacturer": "Sony",
             "model": "J9210",
@@ -597,10 +597,10 @@
             "isauto": "1",
             "isscreen": "0",
             "isfakefull": "1"
-      }
+            }
       },
       "Samsung": {
-      "SM-G960F": {
+        "SM-G960F": {
             "brand": "samsung",
             "manufacturer": "Samsung",
             "model": "SM-G960F",
@@ -683,7 +683,7 @@
             "isscreen": "0",
             "isfakefull": "1"
       },
-      "SM-G770F": {
+        "SM-G770F": {
             "brand": "samsung",
             "manufacturer": "Samsung",
             "model": "SM-G770F",
@@ -765,7 +765,7 @@
             "isauto": "1",
             "isscreen": "0",
             "isfakefull": "1"
-            }
+        }
       }
     }
     
